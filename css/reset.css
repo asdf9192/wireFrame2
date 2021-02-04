@@ -13,3 +13,4 @@ ul,li {list-style:none;}
 a {color:#444;text-decoration:none;}
 /* 시멘틱 태그 */
 head,main,section,footer {display:block;}
+.hide {display:none;}
